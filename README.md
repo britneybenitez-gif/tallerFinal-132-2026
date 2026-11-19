@@ -1,6 +1,6 @@
 # Banco de Preguntas Saber PRO — Taller 13
 
-Entrega final integradora, Fase II. Universidad del Cauca · Laboratorio de Ingeniería de Software II · 2026.2. Docente: Paola Andrea Bedoya Toro.
+Entrega final integradora, Fase II. Universidad del Cauca · Laboratorio de Ingeniería de Software II · 2026.2. Docente: Paola Andrea Bedoya Toro.                               
 link drive video y tarea :https://drive.google.com/drive/folders/1alyzeld24jZVKon68a8SCk9uOvcrUVBc?usp=sharing
 
 Evolución del [Taller 12](docs/taller12/README.md): conserva el agregado, las invariantes, los objetos de valor, los repositorios JPA/HashMap y sus pruebas. Añade tres microservicios, validación REST, eventos RabbitMQ reales, Docker Compose y pruebas de integración. El estado y las limitaciones de la verificación están en el [informe de implementación](docs/INFORME_IMPLEMENTACION.md).
